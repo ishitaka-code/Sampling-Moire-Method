@@ -1,0 +1,8 @@
+__pycache__/
+TestImage/
+.ipynb_checkpoints/
+*.BMP
+*.pptx
+*.svg
+*.pdf
+*.xlsx
